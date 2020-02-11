@@ -1,10 +1,10 @@
-See file:///C:/Users/Alex/CosasDeAndres/git/EulerTest/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+See file:///C:/Users/Alex/CosasDeAndres/git/Robot-Auton/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
 compiling Test.cpp successful.
-In file included from C:\Users\Alex\CosasDeAndres\git\EulerTest\src\main\include/Test.h:4:0,
-                 from C:\Users\Alex\CosasDeAndres\git\EulerTest\src\main\cpp\Test.cpp:1:
+In file included from C:\Users\Alex\CosasDeAndres\git\Robot-Auton\src\main\include/Test.h:4:0,
+                 from C:\Users\Alex\CosasDeAndres\git\Robot-Auton\src\main\cpp\Test.cpp:1:
 C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\d51535453a48b56ba234cf2cfbd86234\wpilibc-cpp-2020.2.2-headers/frc/WPILib.h:14:2: warning: #warning is a GCC extension
  #warning "Including this header drastically increases compilation times and is bad style. Include only what you use instead."
   ^~~~~~~
 C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\d51535453a48b56ba234cf2cfbd86234\wpilibc-cpp-2020.2.2-headers/frc/WPILib.h:14:2: warning: #warning "Including this header drastically increases compilation times and is bad style. Include only what you use instead." [-Wcpp]
 
-Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/Alex/CosasDeAndres/git/EulerTest/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/Alex/CosasDeAndres/git/Robot-Auton/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.

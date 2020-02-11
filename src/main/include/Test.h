@@ -11,6 +11,9 @@
 #include <thread>
 #include <chrono>
 
+#define wallToMiddleStart       101.625
+#define wallToShieldGenerator   125.1200304
+#define marginOfTurningError    .1
 
 using namespace frc;
 using namespace rev;
@@ -27,8 +30,11 @@ class Robot : public TimedRobot {
     void TeleopPeriodic() override;
     void TestPeriodic() override;
     void Sleep(int time);
+    void Enterance(int type);
+    void Exit(int type);
+    void AutonTurn(double robotFromPlayerWall, double robotFromSideWall);
 
-    const enum {SPARKFRONTLEFT = 1, SPARKBACKLEFT, SPARKFRONTRIGHT, SPARKBACKRIGHT};
+    enum {SPARKFRONTLEFT = 1, SPARKBACKLEFT, SPARKFRONTRIGHT, SPARKBACKRIGHT};
 
   private:
     rev::CANSparkMax *s_FrontLeft;

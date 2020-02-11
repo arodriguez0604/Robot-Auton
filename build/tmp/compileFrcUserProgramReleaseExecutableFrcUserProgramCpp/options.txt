@@ -16,7 +16,7 @@ c++
 -O2
 -nostdinc
 -I
-C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\include
+C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\include
 -I
 C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\d51535453a48b56ba234cf2cfbd86234\\wpilibc-cpp-2020.2.2-headers
 -I
