@@ -13,12 +13,14 @@
 
 #define wallToMiddleStart       101.625
 #define wallToShieldGenerator   125.1200304
-#define marginOfTurningError    .1
+#define marginOfTurningError    .0436
 
 using namespace frc;
 using namespace rev;
 
 double delay;
+int entrance;
+int exit;
 
 class Robot : public TimedRobot {
   public:

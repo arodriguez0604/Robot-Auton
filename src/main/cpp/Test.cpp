@@ -20,6 +20,8 @@ void Robot::AutonomousInit() {
 }
 
 void Robot::AutonomousPeriodic() {
+    frc::SmartDashboard::GetNumber("Entrance", entrance);
+    frc::SmartDashboard::GetNumber("Exit", exit);
     frc::SmartDashboard::GetNumber("Delay", delay);
     Sleep (delay);
 }
