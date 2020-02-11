@@ -36,7 +36,7 @@
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\204f51dd5c6bab2a43485ec9c52aca3d\\SparkMax-driver-1.5.1-headers\\",
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\844b8ad13c78a6639122ecd6e983f682\\wpilibNewCommands-cpp-2020.2.2-headers\\",
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\fb6322b8e6b94206aa6504a8584fbdce\\wpilibOldCommands-cpp-2020.2.2-headers\\",
-      "C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\include\\",
+      "C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\include\\",
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\dcc92960e7ca2ee8743210d2781cf50e\\wpilibc-cpp-2020.2.2-sources\\",
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\bf4cb1f369ddebc51dc0dd361ac0c317\\ntcore-cpp-2020.2.2-sources\\",
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\0f263651422831246721b54a6f2e9527\\hal-cpp-2020.2.2-sources\\",
@@ -83,7 +83,7 @@
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\204f51dd5c6bab2a43485ec9c52aca3d\\SparkMax-driver-1.5.1-headers\\",
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\844b8ad13c78a6639122ecd6e983f682\\wpilibNewCommands-cpp-2020.2.2-headers\\",
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\fb6322b8e6b94206aa6504a8584fbdce\\wpilibOldCommands-cpp-2020.2.2-headers\\",
-      "C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\include\\"
+      "C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\include\\"
     ],
     "binaries": [
       {
@@ -92,7 +92,7 @@
           {
             "source": {
               "srcDirs": [
-                "C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\cpp\\"
+                "C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\cpp\\"
               ],
               "includes": [
                 "**/*.cpp",
@@ -102,7 +102,7 @@
             },
             "exportedHeaders": {
               "srcDirs": [
-                "C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\include\\"
+                "C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\include\\"
               ],
               "includes": [
                 "**/*.cpp",
@@ -152,7 +152,7 @@
           "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\204f51dd5c6bab2a43485ec9c52aca3d\\SparkMax-driver-1.5.1-headers\\",
           "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\844b8ad13c78a6639122ecd6e983f682\\wpilibNewCommands-cpp-2020.2.2-headers\\",
           "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\fb6322b8e6b94206aa6504a8584fbdce\\wpilibOldCommands-cpp-2020.2.2-headers\\",
-          "C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\include\\"
+          "C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\include\\"
         ],
         "sharedLibrary": false,
         "executable": true
@@ -162,7 +162,7 @@
       {
         "source": {
           "srcDirs": [
-            "C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\cpp\\"
+            "C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\cpp\\"
           ],
           "includes": [
             "**/*.cpp",
@@ -194,7 +194,7 @@
       {
         "source": {
           "srcDirs": [
-            "C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\include\\"
+            "C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\include\\"
           ],
           "includes": [
             "**/*.cpp",
@@ -265,7 +265,7 @@
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\204f51dd5c6bab2a43485ec9c52aca3d\\SparkMax-driver-1.5.1-headers\\",
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\844b8ad13c78a6639122ecd6e983f682\\wpilibNewCommands-cpp-2020.2.2-headers\\",
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\fb6322b8e6b94206aa6504a8584fbdce\\wpilibOldCommands-cpp-2020.2.2-headers\\",
-      "C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\include\\",
+      "C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\include\\",
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\dcc92960e7ca2ee8743210d2781cf50e\\wpilibc-cpp-2020.2.2-sources\\",
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\bf4cb1f369ddebc51dc0dd361ac0c317\\ntcore-cpp-2020.2.2-sources\\",
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\0f263651422831246721b54a6f2e9527\\hal-cpp-2020.2.2-sources\\",
@@ -312,7 +312,7 @@
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\204f51dd5c6bab2a43485ec9c52aca3d\\SparkMax-driver-1.5.1-headers\\",
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\844b8ad13c78a6639122ecd6e983f682\\wpilibNewCommands-cpp-2020.2.2-headers\\",
       "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\fb6322b8e6b94206aa6504a8584fbdce\\wpilibOldCommands-cpp-2020.2.2-headers\\",
-      "C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\include\\"
+      "C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\include\\"
     ],
     "binaries": [
       {
@@ -321,7 +321,7 @@
           {
             "source": {
               "srcDirs": [
-                "C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\cpp\\"
+                "C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\cpp\\"
               ],
               "includes": [
                 "**/*.cpp",
@@ -331,7 +331,7 @@
             },
             "exportedHeaders": {
               "srcDirs": [
-                "C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\include\\"
+                "C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\include\\"
               ],
               "includes": [
                 "**/*.cpp",
@@ -381,7 +381,7 @@
           "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\204f51dd5c6bab2a43485ec9c52aca3d\\SparkMax-driver-1.5.1-headers\\",
           "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\844b8ad13c78a6639122ecd6e983f682\\wpilibNewCommands-cpp-2020.2.2-headers\\",
           "C:\\Users\\Alex\\.gradle\\caches\\transforms-2\\files-2.1\\fb6322b8e6b94206aa6504a8584fbdce\\wpilibOldCommands-cpp-2020.2.2-headers\\",
-          "C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\include\\"
+          "C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\include\\"
         ],
         "sharedLibrary": false,
         "executable": true
@@ -391,7 +391,7 @@
       {
         "source": {
           "srcDirs": [
-            "C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\cpp\\"
+            "C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\cpp\\"
           ],
           "includes": [
             "**/*.cpp",
@@ -423,7 +423,7 @@
       {
         "source": {
           "srcDirs": [
-            "C:\\Users\\Alex\\CosasDeAndres\\git\\EulerTest\\src\\main\\include\\"
+            "C:\\Users\\Alex\\CosasDeAndres\\git\\Robot-Auton\\src\\main\\include\\"
           ],
           "includes": [
             "**/*.cpp",

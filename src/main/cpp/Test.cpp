@@ -20,7 +20,8 @@ void Robot::AutonomousInit() {
 }
 
 void Robot::AutonomousPeriodic() {
-    
+    frc::SmartDashboard::GetNumber("Delay", delay);
+    Sleep (delay);
 }
 
 void Robot::TeleopInit() {
@@ -32,6 +33,10 @@ void Robot::TeleopPeriodic() {
 
 void Robot::TestPeriodic() {
     TeleopPeriodic();
+}
+
+void Robot::Sleep(int time) {
+    std::this_thread::sleep_for (std::chrono::seconds(time));
 }
 
 #ifndef RUNNING_FRC_TESTS

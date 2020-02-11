@@ -8,10 +8,14 @@
 #include "frc/smartdashboard/SmartDashboard.h"
 #include <AHRS.h>
 #include <math.h>
+#include <thread>
+#include <chrono>
 
 
 using namespace frc;
 using namespace rev;
+
+double delay;
 
 class Robot : public TimedRobot {
   public:
@@ -22,6 +26,7 @@ class Robot : public TimedRobot {
     void TeleopInit() override;
     void TeleopPeriodic() override;
     void TestPeriodic() override;
+    void Sleep(int time);
 
     const enum {SPARKFRONTLEFT = 1, SPARKBACKLEFT, SPARKFRONTRIGHT, SPARKBACKRIGHT};
 
