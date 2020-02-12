@@ -19,7 +19,7 @@ using namespace frc;
 using namespace rev;
 
 double delay;
-int entrance;
+int start;
 int exit;
 
 class Robot : public TimedRobot {

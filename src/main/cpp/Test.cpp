@@ -20,10 +20,10 @@ void Robot::AutonomousInit() {
 }
 
 void Robot::AutonomousPeriodic() {
-    frc::DifferentialDrive::DifferentialDrive(	SpeedController & 	leftMotor,
-SpeedController & 	rightMotor)
+    frc::DifferentialDrive::DifferentialDrive(SpeedControllerGroup & 	s_FrontLeft,  s_BackLeft,
+                                              SpeedControllerGroup & 	s_FrontRight, s_BackRight);
 
-    frc::SmartDashboard::GetNumber("Entrance", entrance);
+    frc::SmartDashboard::GetNumber("Start", start);
     frc::SmartDashboard::GetNumber("Exit", exit);
     frc::SmartDashboard::GetNumber("Delay", delay);
     Sleep (delay);
